@@ -46,13 +46,13 @@ No arquivo `config.lua` você pode personalizar:
 
 ### Comando Principal
 
-|ㅤㅤㅤ ㅤ  ㅤㅤComandoㅤㅤㅤ   ㅤㅤㅤ|ㅤㅤㅤㅤ  ㅤ ㅤDescriçãoㅤ ㅤ  ㅤㅤㅤㅤ|ㅤㅤㅤㅤ ㅤ  ㅤPermissão necessáriaㅤㅤㅤ ㅤ  ㅤㅤ|
+| Comando | Descrição | Permissão necessária |
 |------------|----------------------|---------------------|
 | `/cadmin`  | Abre o painel        | admin.perm          |
 
 ### Atalho Principal
 
-|ㅤㅤㅤㅤㅤㅤㅤTeclaㅤㅤㅤㅤㅤㅤㅤ|ㅤㅤㅤㅤㅤㅤㅤDescriçãoㅤㅤㅤㅤㅤㅤㅤ|ㅤㅤㅤㅤㅤㅤPermissão necessáriaㅤㅤㅤㅤㅤㅤㅤ|
+| Tecla | Descrição | Permissão necessária |
 |-------|-----------------|---------------------|
 | `F2`  | Abre o painel   | admin.perm          |
 
