@@ -67,7 +67,7 @@ Para utilizar o painel administrativo:
 ## Suporte e Atualizações
 
 Como este é um produto pago com suporte dedicado, para dúvidas, atualizações e suporte técnico, acesse nosso Discord:  
-[https://cphlab.xyz/discord](https://cphlab.xyz/discord)
+[https://cphlab.xyz/discord](https://cphlab.xyz/discord).
 
 Você também pode abrir issues no repositório para reportar bugs ou solicitar melhorias.
 
